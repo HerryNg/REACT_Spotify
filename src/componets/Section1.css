@@ -1,0 +1,51 @@
+#section1 {
+    padding-top: 80px;
+    min-height: 70vh;
+    background-color: #ff4632;
+  }
+  #section1 .container {
+    padding: 80px 0;
+  }
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .text {
+    flex-basis: 50%;
+  }
+  
+  .title1 {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 32px;
+  }
+  
+  .title2 {
+    font-size: 64px;
+    font-weight: 600;
+    letter-spacing: -0.04em;
+  }
+  
+  .description {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 16px;
+  }
+  
+  .btn {
+    margin-top: 35px;
+    border-radius: 500px;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 17px 48px;
+    background-color: #000;
+    color: #ffffff;
+    letter-spacing: 2px;
+    border: 0;
+  }
+  
+  .tc {
+    font-size: 13px;
+    margin: 32px 0;
+  }
